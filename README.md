@@ -1,6 +1,6 @@
 # DuckDB Modern Analytics Demo
 
-This project demonstrates an end-to-end data analytics workflow using DuckDB and Python — inspired by the analytics-first philosophy of MotherDuck.
+This project demonstrates an end-to-end data analytics workflow using DuckDB and Python, inspired by the analytics-first philosophy.
 
 ## Features
 - Cleans and loads the Global Superstore dataset
